@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "map": "cpp",
+        "iosfwd": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "deque": "cpp"
+    }
+}
